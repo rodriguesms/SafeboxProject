@@ -1,0 +1,12 @@
+{
+  "name": "SafeBoxProject",
+  "displayName": "SafeBoxProject",
+  "expo": {
+    "name": "SafeBoxProject",
+    "slug": "SafeBoxProject",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
